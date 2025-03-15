@@ -85,6 +85,4 @@ http://localhost:8080/swagger-ui.html
    ```
 5. Crie um Pull Request.
 
-## Licença
-Este projeto está sob a licença MIT.
 
